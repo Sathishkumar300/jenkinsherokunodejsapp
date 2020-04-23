@@ -36,7 +36,7 @@ app.get('/login',(req,res)=>{
 })
 
 app.get('/',(req,res)=>{
-res.send('Welcome To Express App')
+res.send('Welcome To New Express App')
 })
 
 
